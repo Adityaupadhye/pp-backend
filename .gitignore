@@ -1,0 +1,8 @@
+.env
+.idea/
+/__pycache__/
+base64.txt
+schema.py
+db.sqlite3
+pic.png
+mypic.png
